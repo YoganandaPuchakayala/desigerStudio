@@ -9,7 +9,7 @@ export const site = {
   whatsapp: '919392442583', // digits with country code
   email: '',
   hours: 'Monday - Saturday, 9am - 8pm | Sunday: 10am - 2pm',          // e.g. 'Mon–Sat, 10am–8pm'
-  social: { instagram: '', facebook: '', whatsapp: '' }, // full URLs
+  social: { instagram: 'https://www.instagram.com/designer_studio_by_prasanna?stkn=cDJhc21vOGZuaGRz', facebook: '', whatsapp: '' }, // full URLs
   bookingEndpoint: '', // optional POST URL (Formspree, your API...). Empty = request is not sent anywhere yet.
   whatsappMessage: 'Hi, I would like to know more about The Designer Studio by Prasanna and book an appointment.',
 };
